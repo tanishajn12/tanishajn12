@@ -1,12 +1,12 @@
 # Hey there! 👋 I'm Tanisha Jain
 
 ## 💫About Me:
-Sophomore pursuing B.Tech in AI & ML at Indira Gandhi Delhi Technical University For Women.
+Sophomore pursuing B.Tech in AI & ML at Indira Gandhi Delhi Technical University For Women.<br>
 💻 Proficient in Data Structures and Algorithms (DSA) using C++, I love solving coding problems and optimizing code for efficiency.<br>
 🌐 Experienced in web development, where I enjoy building responsive and user-friendly interfaces using HTML, CSS, and JavaScript.<br>
 🤖 Familiar with the basics of Machine Learning, always eager to explore the endless possibilities of AI and its applications.
 
-## 🌐 Socials:
+## 🌐 Connect With Me:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/tanishajain_18) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tanisha-jain12) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/tanishajn12) 
 
 ## 💻 Tech Stack:
@@ -15,7 +15,9 @@ Sophomore pursuing B.Tech in AI & ML at Indira Gandhi Delhi Technical University
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=tanishajn12&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 
+
 ![](https://github-readme-streak-stats.herokuapp.com/?user=tanishajn12&theme=dark&hide_border=false)<br/>
+
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=tanishajn12&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
