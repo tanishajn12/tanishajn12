@@ -1,12 +1,11 @@
 ## 👋 Hi there! I'm Tanisha Jain
-___
 Sophomore at Indira Gandhi Delhi Technical University For Women, pursuing my B.Tech in AI & ML. I'm deeply passionate about coding and constantly exploring the realms of technology.
 
 ### 🚀 My Expertise:
 ___
-💻 Proficient in C++, I love to craft elegant solutions and tackle complex problems with Data Structures and Algorithms (DSA).
+💻 **Proficient in C++ :** I love to craft elegant solutions and tackle complex problems with Data Structures and Algorithms (DSA).
 
-🌐 Experienced in web development, where I enjoy bringing designs to life and creating intuitive user experiences.
+🌐 **Experienced in web development**, where I enjoy bringing designs to life and creating intuitive user experiences.
 
 🤖 Familiar with the fundamentals of Machine Learning.
 
