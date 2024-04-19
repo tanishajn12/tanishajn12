@@ -1,14 +1,3 @@
-## 👋 Hi there! I'm Tanisha Jain
-Sophomore at Indira Gandhi Delhi Technical University For Women, pursuing my B.Tech in AI & ML. I'm deeply passionate about coding and constantly exploring the realms of technology.
-
-### 🚀 My Expertise:
-___
-💻 **Proficient in C++ :** I love to craft elegant solutions and tackle complex problems with Data Structures and Algorithms (DSA).
-
-🌐 **Experienced in web development**, where I enjoy bringing designs to life and creating intuitive user experiences.
-
-🤖 Familiar with the fundamentals of Machine Learning.
-
 <h1 align="center">Hi 👋, I'm Tanisha Jain</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
@@ -18,6 +7,8 @@ ___
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.co m/in/tanisha-jain1210" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.co m/in/tanisha-jain1210" height="30" width="40" /></a>
 <a href="https://instagram.com/www.instagram.com/tanishajain_18/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="www.instagram.com/tanishajain_18/" height="30" width="40" /></a>
+<a href="https://twitter.com/tanishajn12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/tanishajn12" height="30" width="40" /></a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
