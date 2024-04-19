@@ -7,7 +7,9 @@
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.co m/in/tanisha-jain1210" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.co m/in/tanisha-jain1210" height="30" width="40" /></a>
 <a href="https://instagram.com/www.instagram.com/tanishajain_18/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="www.instagram.com/tanishajain_18/" height="30" width="40" /></a>
-<a href="https://twitter.com/tanishajn12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/tanishajn12" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/tanisha_jn12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="tanisha_jn12" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/https://www.geeksforgeeks.org/user/tanishxf2i/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://www.geeksforgeeks.org/user/tanishxf2i/" height="30" width="40" /></a>
+<a href="https://discord.gg/tanishajn1210" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="tanishajn1210" height="30" width="40" /></a>
 
 </p>
 
