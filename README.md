@@ -6,7 +6,7 @@ Sophomore pursuing B.Tech in AI & ML at Indira Gandhi Delhi Technical University
 🤖 Familiar with the basics of Machine Learning, always eager to explore the endless possibilities of AI and its applications.
 
 ## 🌐 Connect With Me:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/tanishajain_18) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tanisha-jain12) [![Twitter](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/tanishajn12) [![Gmail](https://img.shields.io/badge/Gmail-%23EA4335.svg?logo=gmail&logoColor=white)](mailto:tanishajn12@gmail.com) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discordapp.com/invite/your_server)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/tanishajain_18) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tanisha-jain12) [![Twitter](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/tanishajn12) [![Gmail](https://img.shields.io/badge/Gmail-%23EA4335.svg?logo=gmail&logoColor=white)](mailto:tanishajn12@gmail.com) 
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?logo=leetcode&logoColor=white)](https://leetcode.com/tanishajn12/) [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-%2345B39D.svg?logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/tanishajn12/profile)
 
