@@ -17,7 +17,8 @@ Sophomore pursuing B.Tech in AI & ML at Indira Gandhi Delhi Technical University
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
 ### Developer Tools:
-![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)[![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-Installed-blue)](https://code.visualstudio.com/)
+[![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-green?logo=github)](https://pages.github.com/) [![Visual Studio Code](https://img.shields.io/badge/VS_Code-blue?logo=visual-studio-code)](https://code.visualstudio.com/)
+
 
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=tanishajn12&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
