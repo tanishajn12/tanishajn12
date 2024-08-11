@@ -1,12 +1,12 @@
 # Hey there! 👋 I'm Tanisha Jain
 
-Sophomore pursuing B.Tech in AI & ML at Indira Gandhi Delhi Technical University For Women.<br>
+A pre-final year student pursuing B.Tech in AI & ML at Indira Gandhi Delhi Technical University For Women.<br>
 💻 Proficient in Data Structures and Algorithms (DSA) using C++, I love solving coding problems and optimizing code for efficiency.<br>
 🌐 Experienced in web development, where I enjoy building responsive and user-friendly interfaces using HTML, CSS, and JavaScript.<br>
 🤖 Familiar with the basics of Machine Learning, always eager to explore the endless possibilities of AI and its applications.
 
 ## 🌐 Connect With Me:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/tanishajain_18) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tanisha-jain12) [![Twitter](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/tanishajn12) [![Gmail](https://img.shields.io/badge/Gmail-%23EA4335.svg?logo=gmail&logoColor=white)](mailto:tanishajn12@gmail.com) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/tanishajain_18)      [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tanisha-jain12) [![Twitter](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/tanishajn12) [![Gmail](https://img.shields.io/badge/Gmail-%23EA4335.svg?logo=gmail&logoColor=white)](mailto:tanishajn12@gmail.com) 
 
 
 ## 💻 Tech Stack:
